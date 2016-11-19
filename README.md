@@ -1,6 +1,8 @@
 # Tale of a Mad Mage
 ## Ludum Dare 33 — You are the Monster
 
+![Talk of a Mad Mage](http://ludumdare.com/compo/wp-content/compo2/479518/29029-shot0-1440366003.png)
+
 Language:	C-style C++ compiled to JS with emscripten
 
 [Web (HTML5)](http://www.gingerbill.org/ludum-dare/33/)	Warning: Sound was hacked together (I didn't know how the library worked) and is very loud and only in one ear.
